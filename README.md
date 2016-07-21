@@ -23,3 +23,10 @@ Botões
 * Up: 97
 * Down: 249
 * Right: 0
+
+### DS18B20
+
+Lendo o sensor utilizando duas bibliotecas:
+
+* [Dallas Temperatura]{http://www.hacktronics.com/code/DallasTemperature.zip}
+* [OneWire]{http://www.pjrc.com/teensy/arduino_libraries/OneWire.zip}
