@@ -28,5 +28,5 @@ Botões
 
 Lendo o sensor utilizando duas bibliotecas:
 
-* [Dallas Temperatura]{http://www.hacktronics.com/code/DallasTemperature.zip}
-* [OneWire]{http://www.pjrc.com/teensy/arduino_libraries/OneWire.zip}
+* [Dallas Temperatura](http://www.hacktronics.com/code/DallasTemperature.zip)
+* [OneWire](http://www.pjrc.com/teensy/arduino_libraries/OneWire.zip)
